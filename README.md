@@ -1,7 +1,8 @@
 # Responsive Portfolio
 
-github URL: https://github.com/jamiekim87
-Deployes website: https://jamiekim87.github.io/Responsive-portfolio/
+Gitub URL: https://github.com/jamiekim87/Responsive-portfolio
+
+Deployed website: https://jamiekim87.github.io/Responsive-portfolio/
 
 ## Table of Contents
 
